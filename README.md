@@ -7,6 +7,7 @@
 -  DevOps , Azure , Docker , Kubernetes , RappitMq , Kafka , Javascipt , TypeScript , React 18 , Next 13 , Node.JS , MongoDB
 - .NET 7 , EntityFramework Core , Restful apis , Signalr , ASP.NET Core 7 , SQL Server
 - Oracle , Postgresql , Firebase , FireStore , Azure Blob Storage ,  Azure Cosmos DB
+- Bootstrap v5.3 , Tailwind CSS , Materail UI
 - Microservices, API gateway
 - Agile , Scrum SDLCs
 
