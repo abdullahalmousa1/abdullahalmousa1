@@ -8,6 +8,7 @@
 - Oracle , Postgresql , Firebase , FireStore , Azure Blob Storage ,  Azure Cosmos DB
 - Microservices, API gateway
 - Agile , Scrum SDLCs
+- I'm able to design responsive web design and transform any design from Figma or Adobe xd to HTML5,CSS3,Javascript
   
 
  
