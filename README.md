@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @abdullahalmousa1
-- 👀 I’m interested in Blockchain technology 
-- 🌱 I’m currently learning Defi & Solidity tokens & Polygon & more
-- 💞️ I’m looking to collaborate on Blockchain developemnt
-- 📫 How to reach me via my linkedIn : https://www.linkedin.com/in/abdullah-al-mousa-2723b1118/
+- 👋 Hi, This is Abdullah AL-Mousa
+- I’m Software engineer and senior full stack web-based applications developer with over 8 years of experenice in the IT sector
+- I’m Blockchain developer and I'm able to write decentralized web-based applications using Solidity and Ethereum
+- I have been working with multiple kind of projects such as  Soft POS , e-commerece , ERP , CRM , real estate , medical , payment gateway , university management , 
+  school management , pharmacy management and more.. 
+-  DevOps , Azure , Docker , Kubernetes , RappitMq , Kafka , Javascipt , TypeScript , React 18 , Next 13 , Node.JS , MongoDB
+- .NET 7 , EntityFramework Core , Restful apis , Signalr , ASP.NET Core 7 , SQL Server
+- Oracle , Postgresql , Firebase , FireStore , Azure Blob Storage ,  Azure Cosmos DB
+- Microservices, API gateway
+- Agile , Scrum SDLCs
+  
 
-<!---
-abdullahalmousa1/abdullahalmousa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
