@@ -6,6 +6,7 @@
   school management , pharmacy management and more..
 -  **Ethereum , Solidity , Tokens , ERC 20 , ERC 1155 , ERC 4626 ERC721 and ERC165**
 -  **I have over 6 certifications in Blockchain sector**
+-  **AWS Cloud Practitioner**
 -  DevOps , Azure , Docker , Kubernetes , RabbitMQ , Kafka , JavaScript , TypeScript , React 18 , Next 13 , Node.JS , MongoDB
 - .NET 7 , EntityFramework Core , Restful apis , Signalr , ASP.NET Core 7 , SQL Server
 - Oracle , Postgresql , Firebase , FireStore , Azure Blob Storage ,  Azure Cosmos DB
